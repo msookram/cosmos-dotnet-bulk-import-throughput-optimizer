@@ -21,9 +21,9 @@ namespace Microsoft.Azure.Cosmos.Samples.Bulk
     // ----------------------------------------------------------------------------------------------------------
     public class Program
     {
-        private const string EndpointUrl = "https://<your-account>.documents.azure.com:443/";
-        private const string AuthorizationKey = "<your-account-key>";
-        private const string DatabaseName = "bulk-tutorial";
+        private const string EndpointUrl = "https://mas-cosmos-db.documents.azure.com:443/";
+        private const string AuthorizationKey = "gKjb1mRFp91EGP5zGzsUMnYeAMashA3B3YWCijgmACf7uiy4QefTxN36911qo5CIRj272bdadarBsGWPHDndWA==";
+        private const string DatabaseName = "NoSQLEvaluationPOC-Scenario4";
         private const string ContainerName = "items";
         private const int AmountToInsert = 300000;
 
